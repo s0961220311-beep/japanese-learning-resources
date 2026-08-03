@@ -53,6 +53,7 @@
 - **[NHK World Easy Japanese](https://www.nhk.or.jp/lesson/)** - Official lessons by Japan's national broadcaster
 - **[Erin's Challenge](https://www.erin.jpf.go.jp/)** - Video-based interactive lessons
 - **[JF Japanese e-Learning Minato](https://minato-jf.jp/)** - Japan Foundation's learning platform
+- **[Nihongo to Japan](https://www.nihongotojapan.com/en)** - Free all-in-one platform: JLPT N5–N1 grammar, 10,000+ practice questions, a study assistant that tracks your progress, and a 200k-word dictionary (English & Traditional Chinese)
 
 ---
 
